@@ -207,3 +207,6 @@ This repository serves as the official landing page for Eye Candy. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Eye Candy today!**
+
+---
+**Last updated:** 2026-11-09 14:28:08 UTC
