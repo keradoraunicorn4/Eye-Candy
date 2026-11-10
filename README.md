@@ -209,4 +209,4 @@ This repository serves as the official landing page for Eye Candy. The software 
 **Get the most recent version of Eye Candy today!**
 
 ---
-**Last updated:** 2026-11-09 23:37:10 UTC
+**Last updated:** 2026-11-10 04:51:26 UTC
